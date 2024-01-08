@@ -1,0 +1,16 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.banner{
+    background-image: url(/portfolio/images/lap1.jpg);
+    background-repeat: no-repeat;
+    padding: 94px 0px;
+    background-size: cover;
+
+}
+.banner-letter{
+    text-align: start;
+    margin-right: 113px;
+    margin-top: 107px 
+    
+}
